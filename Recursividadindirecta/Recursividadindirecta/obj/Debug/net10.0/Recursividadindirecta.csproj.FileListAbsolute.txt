@@ -1,0 +1,15 @@
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\obj\Debug\net10.0\Recursividadindirecta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\obj\Debug\net10.0\Recursividadindirecta.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\obj\Debug\net10.0\Recursividadindirecta.AssemblyInfo.cs
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\obj\Debug\net10.0\Recursividadindirecta.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\bin\Debug\net10.0\Recursividadindirecta.exe
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\bin\Debug\net10.0\Recursividadindirecta.deps.json
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\bin\Debug\net10.0\Recursividadindirecta.runtimeconfig.json
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\bin\Debug\net10.0\Recursividadindirecta.dll
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\bin\Debug\net10.0\Recursividadindirecta.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\obj\Debug\net10.0\Recursividadindirecta.dll
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\obj\Debug\net10.0\refint\Recursividadindirecta.dll
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\obj\Debug\net10.0\Recursividadindirecta.pdb
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\obj\Debug\net10.0\Recursividadindirecta.genruntimeconfig.cache
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\obj\Debug\net10.0\ref\Recursividadindirecta.dll
+C:\Users\isabe\Desktop\Estructura de datos\Recursividadindirecta\Recursividadindirecta\obj\Debug\net10.0\Recursiv.C8FF782E.Up2Date
