@@ -1,0 +1,15 @@
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\obj\Debug\net10.0\SumaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\obj\Debug\net10.0\SumaNumeros.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\obj\Debug\net10.0\SumaNumeros.AssemblyInfo.cs
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\obj\Debug\net10.0\SumaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\bin\Debug\net10.0\SumaNumeros.exe
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\bin\Debug\net10.0\SumaNumeros.deps.json
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\bin\Debug\net10.0\SumaNumeros.runtimeconfig.json
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\bin\Debug\net10.0\SumaNumeros.dll
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\bin\Debug\net10.0\SumaNumeros.pdb
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\obj\Debug\net10.0\SumaNumeros.dll
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\obj\Debug\net10.0\refint\SumaNumeros.dll
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\obj\Debug\net10.0\SumaNumeros.pdb
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\obj\Debug\net10.0\SumaNumeros.genruntimeconfig.cache
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\obj\Debug\net10.0\ref\SumaNumeros.dll
+C:\Users\isabe\Desktop\Estructura de datos\SumaNumeros\SumaNumeros\obj\Debug\net10.0\SumaNume.ECCD2770.Up2Date
