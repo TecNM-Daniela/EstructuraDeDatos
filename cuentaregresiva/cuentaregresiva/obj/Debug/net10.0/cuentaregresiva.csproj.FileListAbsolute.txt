@@ -1,0 +1,15 @@
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\bin\Debug\net10.0\cuentaregresiva.exe
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\bin\Debug\net10.0\cuentaregresiva.deps.json
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\bin\Debug\net10.0\cuentaregresiva.runtimeconfig.json
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\bin\Debug\net10.0\cuentaregresiva.dll
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\bin\Debug\net10.0\cuentaregresiva.pdb
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\obj\Debug\net10.0\cuentaregresiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\obj\Debug\net10.0\cuentaregresiva.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\obj\Debug\net10.0\cuentaregresiva.AssemblyInfo.cs
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\obj\Debug\net10.0\cuentaregresiva.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\obj\Debug\net10.0\cuentaregresiva.dll
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\obj\Debug\net10.0\refint\cuentaregresiva.dll
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\obj\Debug\net10.0\cuentaregresiva.pdb
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\obj\Debug\net10.0\cuentaregresiva.genruntimeconfig.cache
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\obj\Debug\net10.0\ref\cuentaregresiva.dll
+C:\Users\isabe\Desktop\Estructura de datos\cuentaregresiva\cuentaregresiva\obj\Debug\net10.0\cuentare.020B027C.Up2Date
