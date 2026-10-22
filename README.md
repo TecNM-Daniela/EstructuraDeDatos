@@ -11,3 +11,7 @@
 **Materia:** Estructura de Datos
 
 **Docente:** Mtra. Myrna Villegas Gaytán
+
+## Descripción
+Este repositorio contiene programas realizados en C# 
+en la materia de Estructura de Datos.
