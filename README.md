@@ -1,3 +1,4 @@
+![Portada de Estructura de Datos](portada.png)
 # Estructura de Datos
 
 **Nombre:** Daniela Isabel Holguín Holguín
